@@ -1,3 +1,5 @@
+![Dart CI](https://github.com/Tsogodar/flutter_gh_actions/workflows/Dart%20CI/badge.svg?branch=master)
+
 # flutter_gh_actions
 
 A new Flutter project.
